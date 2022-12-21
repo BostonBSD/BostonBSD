@@ -19,7 +19,7 @@ They exist in perpetuity, equally, until the end of humanity.*
 
 >*However, no one wants velocity to be excessive.*
 
->*Although, if it were excessive, the g-forces exerted can be neutralized with the 4th, 5th, 6th, etc derivatives of the position graph, thus making a high velocity ride equally as pleasant as a low velocity ride...**
+>*Although, if it were excessive, the g-forces exerted can be neutralized with the 4th, 5th, 6th, etc derivatives of the position graph, thus making a high velocity ride equally as pleasant as a low velocity ride...*
 
 <!---
 BostonBSD/BostonBSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
