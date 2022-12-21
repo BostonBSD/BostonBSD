@@ -15,6 +15,12 @@ Github also allows for a greater selection of packages.
 >*His statue is at the top of a mountain, her statue is at the bottom.
 They exist in perpetuity, equally, until the end of humanity.*
 
+>*When speaking of the kinematics, the position graphs between two rides must be equal.
+
+However, no one wants velocity to be excessive.
+
+Although, if it were excessive, the g-forces exerted can be neutralized with the 4th, 5th, 6th, etc derivatives of the position graph, thus making a high velocity ride equally as pleasant as a low velocity ride...*
+
 <!---
 BostonBSD/BostonBSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
