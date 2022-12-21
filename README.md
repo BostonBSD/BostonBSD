@@ -15,7 +15,7 @@ Github also allows for a greater selection of packages.
 >*His statue is at the top of a mountain, her statue is at the bottom.
 They exist in perpetuity, equally, until the end of humanity.*
 
->*When speaking of the kinematics, the position graphs between two rides must be equal.*
+>*When speaking of the kinematics, the area under the position graphs between two rides must be equal.*
 
 >*However, no one wants velocity to be excessive.*
 
