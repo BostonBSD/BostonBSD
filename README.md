@@ -21,7 +21,7 @@ They exist in perpetuity, equally, until the end of humanity.*
 
 >*Although, if it were excessive, the g-forces exerted can be neutralized with the 4th, 5th, 6th, etc derivatives of the position graph, thus making a high velocity ride equally as pleasant as a low velocity ride...*
 
->*For example, someone with a double velocity over a third of the trip could effectively experience as pleasant a ride as someone with singular velocity over the entire trip.  Any there you have it, it is indeed already DONE!*
+>*For example, someone who went double the distance over a third of the trip could effectively experience as pleasant a ride as someone who went a singular distance over the entire trip [the former went further, you might even say they went twice as far, but both returned in the same amount of time].  Any there you have it, it is indeed already DONE!*
 
 <!---
 BostonBSD/BostonBSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
