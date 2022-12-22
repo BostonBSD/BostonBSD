@@ -7,23 +7,6 @@ packages for my system.
 
 Github also allows for a greater selection of packages.
 
-> *There are people who try to sledgehammer their way through life, just remember; 
-> both graphs are the same size, theirs is a mirror of yours.*
-
->*The one who makes the decision is superseded by the one who is faced with the result.*
-
->*His statue is at the top of a mountain, her statue is at the bottom.
-They exist in perpetuity, equally, until the end of humanity.*
-
->*When speaking of the kinematics, the area under the position graphs between two rides must be equal.*
-
->*However, no one wants velocity to be excessive.*
-
->*Although, if it were excessive, the g-forces exerted can be neutralized with the 4th, 5th, 6th, etc derivatives of the position graph, thus making a high velocity ride equally as pleasant as a low velocity ride...*
-
->*For example, someone who went double the distance over a third of the trip could effectively experience as pleasant a ride as someone who went a singular distance over the entire trip [the former went further, you might even say they went twice as far, but both returned in the same amount of time].*
-
->*It can also be assumed that two individuals who go the same distance are not equally as pleased with their own ride, it depends upon the ancillary derivatives.  And there you have it, it is indeed already DONE!*
 <!---
 BostonBSD/BostonBSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
