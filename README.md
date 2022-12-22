@@ -6,7 +6,9 @@ BSD doesn't always have the latest packages, so github allows me to download and
 packages for my system.
 
 Github also allows for a greater selection of packages.
----------------------
+
+
+-----------------------
 
 Good people have very high negative gratification and very low positive gratification.
 [fast elevation, slow reduction]
