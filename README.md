@@ -16,6 +16,7 @@ Bad people have very high positive gratification and very low negative gratifica
 [fast reduction, slow elevation]
 
 ================
+
 Good people have more positive gratification throughout their lifetime [their reduction lasts longer].
 Bad people have more negative gratification throughout their lifetime [their elevation lasts longer].
 
