@@ -23,6 +23,7 @@ They exist in perpetuity, equally, until the end of humanity.*
 
 >*For example, someone who went double the distance over a third of the trip could effectively experience as pleasant a ride as someone who went a singular distance over the entire trip [the former went further, you might even say they went twice as far, but both returned in the same amount of time].  Any there you have it, it is indeed already DONE!*
 
+>*It can also be assumed that two individuals who go the same distance are not equally as pleased with their own ride, it depends upon the ancillary derivatives.*
 <!---
 BostonBSD/BostonBSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
