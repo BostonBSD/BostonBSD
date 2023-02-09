@@ -25,4 +25,4 @@ I am not competing with the people who violate with the machine that can determi
 
 None of my labor can be used to violate anyone with the machine that can determine all information.
 
-It isn't possible to violate anyone after socializing with me.
+It isn't possible to violate anyone with the machine that can determine all information after socializing with me.
