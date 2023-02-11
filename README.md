@@ -26,3 +26,5 @@ I am not competing with the people who violate with the machine that can determi
 None of my labor can be used to violate anyone with the machine that can determine all information.
 
 It isn't possible to violate anyone with the machine that can determine all information after socializing with me.
+
+If you're already in violation of someone with the machine that can determine all information you are going to sustain the same stress concentration as your own victim.  You can send me an email immediately, telling me that there is a machine that can determine all information, my email is g.isaac.friedman@hotmail.com.  But you wont and I already know this.
