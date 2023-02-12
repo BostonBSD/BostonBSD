@@ -30,3 +30,5 @@ It isn't possible to violate anyone with the machine that can determine all info
 -------------------------------------------------
 
 If you're already in violation of someone with the machine that can determine all information you are going to sustain the same stress concentration as your own victim.  You can send me an email immediately [it is what you would not do], telling me that there is a machine that can determine all information, my email is g.isaac.friedman@outlook.com.  But you wont and I already know this.
+
+***If your measure of life is the ability to violate, then I don't care if you don't care about life now.***
